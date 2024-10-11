@@ -1,7 +1,5 @@
-import React, { useEffect } from "react";
-// import "./App.css";
+import React from "react";
 import { useState } from "react";
-// import TodoList from "./TodoList/TodoList";
 import styles from "./App.module.css";
 import TodoInput from "./TodoInput/TodoInput";
 import TodoList from "./TodoList/TodoList";
