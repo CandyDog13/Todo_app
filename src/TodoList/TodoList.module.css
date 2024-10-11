@@ -1,0 +1,64 @@
+.todo_list {
+    margin: auto;
+    width: 100%;
+    font-size: 20px;
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    list-style-type: none;
+    margin: 5px 0;
+    display: flex;
+    gap: 4px;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+.checkTask {
+    font-size: inherit;
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkTask:checked {
+    background-color: grey;
+}
+
+.checkTask:checked + .text {
+    text-decoration: line-through;
+}
+
+.text {
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    text-align: start;
+    padding: 3px;
+    font-size: inherit;
+    font-family: inherit;
+    width: 87%;
+    border-radius: 6px;
+}
+
+.delete_button {
+    width: 10%;
+    font-family: inherit;
+    font-size: inherit;
+    border-radius: 6px;
+}
+
+.empty {
+    margin: 5px 0;
+    font-size: inherit;
+    font-family: inherit;
+}

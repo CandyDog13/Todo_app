@@ -1,0 +1,23 @@
+.input_wrapper {
+    margin: auto;
+    width: 100%;
+    font-size: 20px;
+    font-family: inherit;
+    display: flex;
+    gap: 2px;
+}
+
+.inputBar {
+    font-size: inherit;
+    font-family: inherit;
+    width: 90%;
+    border-radius: 6px;
+    padding: 3px;
+}
+
+.add_button {
+    font-family: inherit;
+    font-size: inherit;
+    border-radius: 6px;
+    width: 10%;
+}

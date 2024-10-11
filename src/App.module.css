@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.app {
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 600px;
+  width: 60%;
+}
+
+.headerName {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 70px;
+  margin: 0;
+  padding: 2px 0;
+  opacity: 0.3;
+}

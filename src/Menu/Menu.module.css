@@ -1,0 +1,35 @@
+.menu {
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+.counter {
+    min-width: 160px;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: start;
+}
+
+.filter_buttons {
+    display: flex;
+    gap: 5px;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.button_filter {
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.clear_button {
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: inherit;
+    min-width: 160px;
+}
