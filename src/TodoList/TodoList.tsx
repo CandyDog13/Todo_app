@@ -14,9 +14,9 @@ const TodoList: FC<ITodoList> = ({ list, remove, checkDone }) => {
     <>
       {list?.length > 0 ? (
         <ul className={styles.todo_list}>
-          {list.map((entry, index) => (
+          {list.map((entry) => (
             <div className="todo">
-              <li key={index} className={styles.list}>
+              <li key={entry.id} className={styles.list}>
                 {entry.isDone === true ? (
                   <input type="checkbox" className={styles.checkTask} checked onClick={() => checkDone(entry)}/>
                 ) : (
