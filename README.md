@@ -1,5 +1,11 @@
 ---
-permalink: /index.html
+/index.html
+---
+---
+![image](https://github.com/user-attachments/assets/3eef7e7a-52ae-4476-b449-f91ec29ed11f)
+---
+---
+# Site to view: https://candydog13.github.io/Todo_app/
 ---
 # Getting Started with Create React App
 
