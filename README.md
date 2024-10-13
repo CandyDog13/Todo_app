@@ -21,9 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### 'npm cypress:open'
+### `npm cypress:open`
 
-Before open cypress it needs to run server. npm run start and then npm run cypress:open.
+Before open cypress it needs to run server. Runs the app in the development mode. (npm run start)\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. And then npm run cypress:open.
 
 ### `npm test`
 
