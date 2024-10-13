@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+# Site to view: https://candydog13.github.io/Todo_app/
 ---
 # Getting Started with Create React App
 
