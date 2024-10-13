@@ -1,6 +1,4 @@
----
-permalink: /index.html
----
+Preview of UI:
 ---
 ![image](https://github.com/user-attachments/assets/3eef7e7a-52ae-4476-b449-f91ec29ed11f)
 ---
